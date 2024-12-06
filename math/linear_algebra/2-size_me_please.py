@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+""" function that return the shape of matrix """
 
 def matrix_shape(matrix):
     """ find the shape of Matrix """
